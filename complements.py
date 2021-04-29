@@ -9,7 +9,7 @@ for i in bin:
         ones+='1'
     else:
         ones+='0'
-print("1's compliment:",ones)
+print("1's complement:",ones)
 l=len(ones)
 ones = list(ones.strip(""))
 twos = list(ones)
