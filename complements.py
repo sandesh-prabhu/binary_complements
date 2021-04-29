@@ -27,4 +27,4 @@ if flag==0:
     # in such case, add extra 1 at beginning
     if (i == -1):
         twos.insert(0, '1')
-print("2's compliment: ",*twos,sep='')
+print("2's complement: ",*twos,sep='')
