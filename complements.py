@@ -26,5 +26,5 @@ if flag==0:
     # If No break : all are 1 as in 111 or 11111
     # in such case, add extra 1 at beginning
     if (i == -1):
-        twos.insert(0, '1')fffffffffffffffffffffffffffff
+        twos.insert(0, '1')ffffffffffffff
 print("2's complement: ",*twos,sep='')
